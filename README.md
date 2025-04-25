@@ -89,7 +89,7 @@ body, html {
 }
 
 .background {
-  background-image: url('https://i.imgur.com/9Z1Zoj4.jpg'); / Replace with your image */
+  background-image: url('https://i.imgur.com/9Z1Zoj4.jpg'); /(https://cdn.discordapp.com/attachments/1152681587922702517/1361032044578344970/deoppressoliberhostagerescue121.png?ex=680bc7de&is=680a765e&hm=c24f2ee128d0ad45eb4b0fab858b6e2ca26d898b4b9ee9b3f6c2bbfe0cb514ab&)*/
   background-size: cover;
   background-position: center;
   position: fixed;
