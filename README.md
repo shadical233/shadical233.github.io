@@ -89,7 +89,7 @@ body, html {
 }
 
 .background {
-  background-image: url('https://i.imgur.com/9Z1Zoj4.jpg'); /(https://cdn.discordapp.com/attachments/1152681587922702517/1361032044578344970/deoppressoliberhostagerescue121.png?ex=680bc7de&is=680a765e&hm=c24f2ee128d0ad45eb4b0fab858b6e2ca26d898b4b9ee9b3f6c2bbfe0cb514ab&)*/
+  background-image: url('https://i.imgur.com/9Z1Zoj4.jpg'); /https://www.google.com/url?sa=i&url=https%3A%2F%2Fx.com%2FForceHunterFX%2Fstatus%2F1339495392849711104&psig=AOvVaw0sIPQT83DxaX11_AFw73oH&ust=1745640155299000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDcoL6m8owDFQAAAAAdAAAAABAE*/
   background-size: cover;
   background-position: center;
   position: fixed;
