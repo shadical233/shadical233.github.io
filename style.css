@@ -9,7 +9,7 @@ body, html {
 }
 
 .background {
-  background-image: url('https://pbs.twimg.com/media/EpbXzgrVQAEY3-i.jpg:large'); 
+  background-image: url('https://pbs.twimg.com/media/EpbXzgrVQAEY3-i.jpg'); 
   background-size: cover;
   background-position: center;
   position: fixed;
